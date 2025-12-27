@@ -1,0 +1,1 @@
+const usedVar = 'this is used';\nconsole.log(usedVar);\nfunction test() {\n  return 'test';\n}
