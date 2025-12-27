@@ -1,5 +1,1 @@
-const unusedVar = "this is unused"
-console.log("Hello world")
-function test() {
-  return "test"
-}
+const usedVar = 'this is used';\nconsole.log(usedVar);\nfunction test() {\n  return 'test';\n}
